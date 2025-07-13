@@ -64,5 +64,4 @@ lelapa-assessment/
 - If you encounter missing package errors, ensure all dependencies are installed (see `requirements.txt`).
 - For Docker, make sure your local folder is mounted to `/workspace` in the container.
 
-## Contact
-For any issues, please reach out to the assessment organizer.
+
