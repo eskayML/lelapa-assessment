@@ -11,7 +11,16 @@
 >[!TIP]
 > Opening the notebook in Colab with T4 GPU Enabled is the most recommended method to run this Notebook. Other ways of setting it up are listed below
 
-### 1. Environment Setup
+
+### 1. Clone the Repository
+First, clone this repository to your local machine:
+
+```
+git clone https://github.com/eskayML/lelapa-assessment.git
+cd lelapa-assessment
+```
+
+### 2. Environment Setup
 
 #### Option A: Using Docker (Recommended for reproducibility)
 1. Ensure you have [Docker](https://www.docker.com/) installed.
@@ -43,7 +52,7 @@
 5. Open `LELAPA SUBMISSION.ipynb` and run all cells.
 
 
-### 2. Data Download & Folder Structure
+### 3. Data Download & Folder Structure
 The notebook automatically downloads the required dataset from Google Drive. If you already have the data, ensure that the `dataset_v2` folder is placed inside the project folder (same location as the notebook and README).
 
 **Folder structure should look like:**
