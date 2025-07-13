@@ -6,6 +6,10 @@
 - `Dockerfile` or `requirements.txt`: Environment setup (choose one).
 
 ## How to Run
+<a href="https://colab.research.google.com/github/eskayML/lelapa-assessment/blob/main/LELAPA%20SUBMISSION.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+>[!TIP]
+> Opening the notebook in Colab with T4 GPU Enabled is the most recommended method to run this Notebook. Other ways of setting it up are listed below
 
 ### 1. Environment Setup
 
