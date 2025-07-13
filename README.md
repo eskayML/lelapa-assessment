@@ -22,7 +22,7 @@ cd lelapa-assessment
 
 ### 2. Environment Setup
 
-#### Option A: Using Docker (Recommended for reproducibility)
+#### Option A: Using Docker
 1. Ensure you have [Docker](https://www.docker.com/) installed.
 2. Build the Docker image:
    ```
