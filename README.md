@@ -56,8 +56,8 @@ lelapa-assessment/
 ├── Dockerfile
 └── dataset_v2/
     ├── transcriptions.csv
-    └── audios/
-        └── ...
+    └── aaa.wav....zzz.wav
+
 ```
 
 ## Troubleshooting
